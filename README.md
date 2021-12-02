@@ -1,44 +1,10 @@
 # exercism
 
-FIXME: description
+I am on a quest to master Clojure.  Along the way, I'm utilizing sites with problems to solve to expand and test my Clojure abilities.
 
-## Installation
+Exercism is one such site. (https://exercism.org/)
 
-Download from http://example.com/FIXME.
+All of my completed Exercism exercises are NOT here. Some are so trivial that I can easily complete them in the Exercism editor. Others, like the ones found here, I want/need to conduct a little more experimentation.
 
-## Usage
+Enjoy!
 
-FIXME: explanation
-
-    $ java -jar exercism-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2021 FIXME
-
-This program and the accompanying materials are made available under the
-terms of the Eclipse Public License 2.0 which is available at
-http://www.eclipse.org/legal/epl-2.0.
-
-This Source Code may also be made available under the following Secondary
-Licenses when the conditions for such availability set forth in the Eclipse
-Public License, v. 2.0 are satisfied: GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or (at your
-option) any later version, with the GNU Classpath Exception which is available
-at https://www.gnu.org/software/classpath/license.html.
